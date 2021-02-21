@@ -3,7 +3,7 @@
 
 Настройка сервера.
 Необходим VPS или аналог, рекомендую https://www.hetzner.com/cloud, не Xen, полная виртуализация, да и Финляндия близко к Россси, и траффик почти безлимитный в отличие от кункурентов.
-Зайти по ssh  и выполнить wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
+Зайти по ssh  и выполнить "wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh"
 В паке /root оразуются конфиги клиентов
 
 Либо можно использовать любой иной сервис.
